@@ -2,7 +2,8 @@
 geohash.rb
 // geohash.js
 // Geohash library for Javascript
-// Thanks to David Troy for his gem pr_geohash
+// Himanshu Rai 
+// himanshu2010rai@gmail.com
 // this is bit modified code of David Troy
 // Distributed under the MIT License
 =end
